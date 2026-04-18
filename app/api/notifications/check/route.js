@@ -1,3 +1,4 @@
+
 /**
  * app/api/notifications/check/route.js
  *
