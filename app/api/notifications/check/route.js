@@ -9,7 +9,7 @@
  *   "crons": [
  *     {
  *       "path": "/api/notifications/check",
- *       "schedule": "0 */4 * * *"   <- every 4 hours
+ *       *       "schedule": "0 */4 * * *"
  *     }
  *   ]
  * }
