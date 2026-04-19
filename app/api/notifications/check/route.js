@@ -10,7 +10,7 @@
  *   "crons": [
  *     {
  *       "path": "/api/notifications/check",
- *       *       "schedule": "0 */4 * * *"
+ *       "schedule": "0 */4 * * *"
  *     }
  *   ]
  * }
